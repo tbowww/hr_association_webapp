@@ -1,4 +1,4 @@
-package com.openclassrooms.webapp.repository;
+package com.openclassrooms.webapp;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
